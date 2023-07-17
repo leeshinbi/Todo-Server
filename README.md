@@ -12,6 +12,8 @@
 https://www.todobackend.com/
 이 링크를 통해 프론트와 연결하여 실행되는 것을 확인 
 
+스프링 부트가 지원하는 인메모리 관계형 데이터베이스 'h2' 사용
+
 
 ## 연결된 화면
 ![bandicam 2023-07-17 23-20-16-295](https://github.com/leeshinbi/Todo-Server/assets/109641586/82353597-c709-416c-9a47-73788841891c)
